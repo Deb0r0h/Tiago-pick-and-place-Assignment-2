@@ -1,3 +1,8 @@
+## Files needed for execution
+- [Environment and launch files](https://github.com/PieroSimonet/tiago_iaslab_simulation.git)
+- [Apriltag](https://github.com/AprilRobotics/apriltag.git)
+- [Apriltag_ros](https://github.com/AprilRobotics/apriltag_ros.git)
+- [Gazebo_ros_link_attacher](https://github.com/pal-robotics/gazebo_ros_link_attacher.git)
 
 ## Commands to start simulation and pick and place procedure
 To start the simulation:

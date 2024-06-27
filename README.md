@@ -9,16 +9,17 @@ coloured tables, pick the color-associated table, move towards it, place the obj
 room. The goal is considered achieved when Tiago places correctly the objects on the right tables in the wanted
 order
 
-<p align="center">
-  <div style="display: inline-block; text-align: center;">
+<p align="center" style="display: flex; justify-content: space-between;">
+  <div style="text-align: center;">
     <b>Pick</b><br>
     <img src="media_readme/pick.gif" width="45%" alt="Pick" />
   </div>
-  <div style="display: inline-block; text-align: center;">
+  <div style="text-align: center;">
     <b>Place</b><br>
     <img src="media_readme/place.gif" width="45%" alt="Place" />
   </div>
 </p>
+
 
 
 

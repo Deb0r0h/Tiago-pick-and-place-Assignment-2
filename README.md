@@ -11,9 +11,9 @@ order
 
 <p align="center">
   <b>Pick</b><br>
-  <img src="media_readme/pick.gif" width="45%" alt="Pick" />
+  <img src="media_readme/pick.gif" width="30%" alt="Pick" />
   <b>Place</b><br>
-  <img src="media_readme/place.gif" width="45%" alt="Place" />
+  <img src="media_readme/place.gif" width="30%" alt="Place" />
 </p>
 
 

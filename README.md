@@ -9,6 +9,13 @@ coloured tables, pick the color-associated table, move towards it, place the obj
 room. The goal is considered achieved when Tiago places correctly the objects on the right tables in the wanted
 order
 
+<p align="center">
+  <b>Pick</b><br>
+  <img src="media_readme/pick.gif" width="45%" alt="Pick" />
+  <b>Place</b><br>
+  <img src="media_readme/place.gif" width="45%" alt="Place" />
+</p>
+
 
 
 

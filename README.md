@@ -10,10 +10,14 @@ room. The goal is considered achieved when Tiago places correctly the objects on
 order
 
 <p align="center">
-  <b>Pick</b><br>
-  <img src="media_readme/pick.gif" width="30%" alt="Pick" />
-  <b>Place</b><br>
-  <img src="media_readme/place.gif" width="30%" alt="Place" />
+  <div style="display: inline-block; text-align: center;">
+    <b>Pick</b><br>
+    <img src="media_readme/pick.gif" width="45%" alt="Pick" />
+  </div>
+  <div style="display: inline-block; text-align: center;">
+    <b>Place</b><br>
+    <img src="media_readme/place.gif" width="45%" alt="Place" />
+  </div>
 </p>
 
 

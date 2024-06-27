@@ -1,3 +1,17 @@
+# Tiago pick and place routine
+
+The goal of the project is to implement a fetch and delivery behavior for the robot Tiago.
+In the simulated environment there are two rooms separated by a wall, plus some obstacles into the environment.
+In the first room is placed a table with some objects above that the robot has to fetch (red, blue and green),
+plus gold hexagons that Tiago has to avoid, and thus not collide with them. Tiago has to grasp the correct
+objects in some defined order, not collide to not wanted objects, move to the second room where are present
+coloured tables, pick the color-associated table, move towards it, place the object and come back in the previous
+room. The goal is considered achieved when Tiago places correctly the objects on the right tables in the wanted
+order
+
+
+
+
 ## Files needed for execution
 - [Environment and launch files](https://github.com/PieroSimonet/tiago_iaslab_simulation.git)
 - [Apriltag](https://github.com/AprilRobotics/apriltag.git)
